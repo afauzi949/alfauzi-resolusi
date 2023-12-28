@@ -1,4 +1,4 @@
 resolusi
 - mencoba menggunakan github
 - mencoba commit
-- mencoba fitur
+- mengganti percobaan
