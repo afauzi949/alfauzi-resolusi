@@ -1,0 +1,3 @@
+resolusi
+- mencoba menggunakan github
+- mencoba commit
