@@ -1,0 +1,4 @@
+rencana kegiatan libur
+
+- belajar git
+- membuat noice
