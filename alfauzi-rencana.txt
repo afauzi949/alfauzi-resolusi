@@ -4,6 +4,6 @@ rencana kegiatan libur
   * membuat repository
   * membuat branch git
     ^ mencoba menggabungkan git
-    ^ mencoba 3 branch
+    ^ merge branch
 - membuat noice
 - belajar database
