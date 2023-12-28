@@ -6,3 +6,4 @@ rencana kegiatan libur
     ^ mencoba menggabungkan git
     ^ merge branch
 - membuat noice
+- belajar database
