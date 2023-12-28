@@ -1,4 +1,6 @@
 rencana kegiatan libur
 
 - belajar git
+  * membuat repository
+  * membuat branch git
 - membuat noice
