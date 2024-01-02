@@ -2,3 +2,4 @@ resolusi
 - mencoba menggunakan github
 - mencoba commit
 - mengganti percobaan
+- melakukan pull & request
